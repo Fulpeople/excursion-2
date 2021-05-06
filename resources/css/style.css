@@ -34,3 +34,12 @@ body {
     color: aliceblue;
     
 }
+
+/*FOOTER*/
+
+.copyright {
+    font-size: 21px;
+    color: grey;
+    text-align: right;
+    
+}
